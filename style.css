@@ -1,0 +1,54 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    height: 100px;
+    background-color: black;
+    color: white;
+}
+body {
+    background-color: black;
+    color: white;
+}
+footer {
+    background-color: #0f0f0f;
+    color: white;
+}
+/* table {
+    display: inline;
+} */
+.oo {
+    color: #e62e2d;
+    font-size: 26px;
+}
+.gaf {
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.odn {
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.odna {
+    color: black;
+}
+.brcity {
+    color: #e62e2d;
+    font-size: 20px;
+    text-transform:uppercase;
+}
+.headings {
+    font-size: 50px;
+}
+.headings2 {
+    font-size: 30px;
+}
