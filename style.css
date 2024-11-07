@@ -53,3 +53,27 @@ a {
 .headings2 {
     font-size: 30px;
 }
+
+a:link {
+
+}
+a:visited {
+    color: orange;
+
+}
+a:hover {
+    background-color: #e62e2d;
+    padding: 10px 20px;
+    border-radius: 20px
+}
+.oo:hover {
+    color: white;
+    background-color: #e62e2d;
+    padding: 10px 20px;
+    border-radius: 20px
+
+}
+a:active {
+    color: white;
+
+}
