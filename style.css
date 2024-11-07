@@ -57,12 +57,17 @@ a {
 a:link {
 
 }
-a:visited {
-    color: orange;
+.a:visited {
+    color: #8D8D8D;
 
 }
-a:hover {
-    background-color: #e62e2d;
+.oo:visited {
+    color: #e62e2d;
+
+}
+.a:hover {
+    background-color: #333333;
+    color: #C3C3C3;
     padding: 10px 20px;
     border-radius: 20px
 }
@@ -73,7 +78,8 @@ a:hover {
     border-radius: 20px
 
 }
-a:active {
+.a:active {
     color: white;
+    background-color: black;
 
 }
